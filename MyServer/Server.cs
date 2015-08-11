@@ -27,25 +27,36 @@ namespace MyServer
 
         public static void start()
         {
-            IPAddress localAdd = IPAddress.Parse("127.0.0.1");
-            listener = new TcpListener(localAdd, 5000);
-            Console.WriteLine("Listening...");
-            listener.Start();
+            //            IPAddress localAdd = IPAddress.Parse("127.0.0.1");
+            //            listener = new TcpListener(localAdd, 5000);
+            //            Console.WriteLine("Listening...");
+            //            listener.Start();
+            //            
+            //            while (true)
+            //            {
+            //                //---incoming client connected---
+            //                client = listener.AcceptTcpClient();
+            //                
+            //                HandleClient clientHandler = new HandleClient(client);
+            //                ThreadPool.QueueUserWorkItem(clientHandler.doChat, clientID);
+            //
+            //                Console.WriteLine("client {0} on board", clientID);
+            //                clientID++;
+            //            }
+            //            
+            //            close();
             
+    
+        
             while (true)
             {
-                //---incoming client connected---
-                client = listener.AcceptTcpClient();
-                
-                HandleClient clientHandler = new HandleClient(client);
-                ThreadPool.QueueUserWorkItem(clientHandler.doChat, clientID);
-
-                Console.WriteLine("client {0} on board", clientID);
-                clientID++;
+                Console.WriteLine("Hello World!!! " + DateTime.UtcNow);
+                Thread.Sleep(1000);
             }
             
-            close();
         }
+    
+
 
         private static void close()
         {
