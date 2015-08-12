@@ -32,6 +32,10 @@ namespace MyServer
                     string inputLine = reader.ReadLine();
 
                     Console.WriteLine(inputLine);
+
+                    string outputLine = "Echo: " + inputLine;
+                    writer.WriteLine(outputLine);
+
                 }
                 catch (Exception ex)
                 {

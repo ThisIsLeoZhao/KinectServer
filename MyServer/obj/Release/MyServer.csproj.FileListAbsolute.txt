@@ -1,0 +1,16 @@
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\MyServer.exe.config
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\MyServer.exe.manifest
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\MyServer.application
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\MyServer.exe
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\MyServer.pdb
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\Newtonsoft.Json.dll
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\SingleKinect.exe
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\Microsoft.Kinect.dll
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\Newtonsoft.Json.xml
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\SingleKinect.pdb
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Release\Microsoft.Kinect.xml
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Release\MyServer.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Release\MyServer.exe.manifest
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Release\MyServer.application
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Release\MyServer.exe
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Release\MyServer.pdb

@@ -1,0 +1,34 @@
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\MyServer.exe.config
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\MyServer.exe
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\MyServer.pdb
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Debug\MyServer.exe
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Debug\MyServer.pdb
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\SingleKinect.exe
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\SingleKinect.pdb
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\MyServer.exe.manifest
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\bin\Debug\MyServer.application
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Debug\MyServer.exe.manifest
+C:\Users\Leo\Desktop\Graduation Project\KinectServer\MyServer\obj\Debug\MyServer.application
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\MyServer.exe.config
+C:\Users\leo\Downloads\KinectServer\MyServer\obj\Debug\MyServer.exe
+C:\Users\leo\Downloads\KinectServer\MyServer\obj\Debug\MyServer.pdb
+C:\Users\leo\Downloads\KinectServer\MyServer\obj\Debug\MyServer.csprojResolveAssemblyReference.cache
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\MyServer.exe.manifest
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\MyServer.application
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\MyServer.exe
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\MyServer.pdb
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\Microsoft.Kinect.dll
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\SingleKinect.pdb
+C:\Users\leo\Downloads\KinectServer\MyServer\bin\Debug\Microsoft.Kinect.xml
+C:\Users\leo\Downloads\KinectServer\MyServer\obj\Debug\MyServer.exe.manifest
+C:\Users\leo\Downloads\KinectServer\MyServer\obj\Debug\MyServer.application
+C:\Users\leo\Desktop\KinectServer\MyServer\bin\Debug\MyServer.exe.config
+C:\Users\leo\Desktop\KinectServer\MyServer\obj\Debug\MyServer.exe
+C:\Users\leo\Desktop\KinectServer\MyServer\obj\Debug\MyServer.pdb
